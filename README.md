@@ -1,7 +1,7 @@
 ### Hello ! 👋
 
 - 🔭 I’m currently working on Shairport , a rides based matchmaking service for USC Students
-- 🌱 I’m currently learning Node JS 
+- 🌱 I’m currently learning swift and typescript
 - 💭 a dream of mine is to one day lead my own team as a Chief Techinical Officier
 - 📫 How to reach me: toanh@usc.edu
 - 😄 Pronouns: He/Him
